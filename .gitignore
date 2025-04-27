@@ -1,2 +1,4 @@
 rag_test/
 hf_cache/
+embeddings_and_context.pkl
+*.pkl
